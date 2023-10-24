@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: ci_percentage_calculator_online
 */
 
+if (!defined('ABSPATH')) exit;
+
 if (!function_exists('add_shortcode')) return "No direct call for Percentage Calculator Online by Calculator.iO";
 
 function display_ci_percentage_calculator_online(){
