@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Percentage Calculator Online](https://www.calculator.io/percentage-calculator-online/ "Percentage Calculator Online Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_percentage_calculator_online]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Percentage Calculator Online to the sidebar through the `Appearance -> Widgets -> Percentage Calculator Online` menu in WordPress.
+* Add the shortcode `[ci_percentage_calculator_online]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_percentage_calculator_online(); ?>` to your template where you would like the Percentage Calculator Online to appear.
 
 == Screenshots ==
