@@ -13,7 +13,7 @@ Percent calculator to calculate percentage of a number online. The calculator ca
 
 ## Usage
 * Add the shortcode `[ci_percentage_calculator_online]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_percentage_calculator_online(); ?>` to your template where you would like the Percentage Calculator Online to appear.
+* Or add the following code: `<?php display_ci_percentage_calculator_online(); ?>` to your template where you would like the Percentage Calculator Online to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
