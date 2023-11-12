@@ -13,34 +13,35 @@ Percent calculator to calculate percentage of a number online. The calculator ca
 
 Percent calculator to calculate percentage of a number online. The calculator can find percentages and calculate discounts, taxes, and tips.
 
-[Percentage Calculator Online Homepage](https://www.calculator.io/percentage-calculator-online/ "Percentage Calculator Online Homepage")
+[https://www.calculator.io/percentage-calculator-online/](https://www.calculator.io/percentage-calculator-online/)
 
-__Shortcode__
-
-Use the Percentage Calculator Online shortcode:
+__Percentage Calculator Online Shortcode__
 
 `[ci_percentage_calculator_online]`
-
-Libraries in use:
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
 
 == Installation ==
 
 1. Upload the /ci_percentage_calculator_online/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Percentage Calculator Online](https://www.calculator.io/percentage-calculator-online/ "Percentage Calculator Online Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+== Percentage Calculator Online Usage ==
+
 * Add the shortcode `[ci_percentage_calculator_online]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_percentage_calculator_online(); ?>` to your template where you would like the Percentage Calculator Online to appear.
 
 == Screenshots ==
+
 1. The Percentage Calculator Online Input Form.
 2. The Percentage Calculator Online Calculation Results.
+
+== Libraries used in Percentage Calculator Online ==
+
+1. https://mathjs.org/
+2. https://katex.org/
+3. https://github.com/aFarkas/lazysizes
+4. https://github.com/RobinHerbots/Inputmask
+5. https://air-datepicker.com/
+6. https://www.chartjs.org/
 
 == Changelog ==
 
