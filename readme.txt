@@ -1,6 +1,6 @@
 === Percentage Calculator Online by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: percentage, percent, calculate percentage, percentage increase, percentage decrease, percentage change, percentage of, percentage off, percentage difference, percentage error, percentage formula
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
