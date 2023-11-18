@@ -1,4 +1,4 @@
-# Percentage Calculator Online WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Percentage Calculator Online Widget for WordPress
 
 Percent calculator to calculate percentage of a number online. The calculator can find percentages and calculate discounts, taxes, and tips.
 
