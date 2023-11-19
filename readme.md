@@ -7,7 +7,7 @@ Percent calculator to calculate percentage of a number online. The calculator ca
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/percentage-calculator-online/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /percentage-calculator-online-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Percentage Calculator Online](https://www.calculator.io/percentage-calculator-online/ "Percentage Calculator Online Homepage") plugin through the "Plugins" menu in WordPress.
 
