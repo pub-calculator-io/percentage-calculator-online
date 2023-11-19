@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Percentage Calculator Online by www.calculator.io
+Plugin Name: CI Percentage calculator online
 Plugin URI: https://www.calculator.io/percentage-calculator-online/
 Description: Percent calculator to calculate percentage of a number online. The calculator can find percentages and calculate discounts, taxes, and tips.
 Version: 1.0.0
