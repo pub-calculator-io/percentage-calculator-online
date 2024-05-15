@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Percentage Calc
 == Screenshots ==
 
 1. The Percentage Calculator Online Input Form.
-2. The Percentage Calculator Online Calculation Results.
 
 == Installation ==
 

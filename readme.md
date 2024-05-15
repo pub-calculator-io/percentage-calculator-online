@@ -3,7 +3,6 @@
 Percent calculator to calculate percentage of a number online. The calculator can find percentages and calculate discounts, taxes, and tips.
 
 ![Percentage Calculator Online Input Form](/assets/images/screenshot-1.png "Percentage Calculator Online Input Form")
-![Percentage Calculator Online Calculation Results](/assets/images/screenshot-2.png "Percentage Calculator Online Calculation Results")
 
 ## Installation
 
